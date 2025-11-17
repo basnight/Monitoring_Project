@@ -1,4 +1,4 @@
-Comprehensive AWS EKS cluster monitoring with Prometheus, Garafana and EFK stack
+Comprehensive AWS EKS cluster monitoring with Prometheus, Grafana and EFK stack
 
 ## Introduction
 
